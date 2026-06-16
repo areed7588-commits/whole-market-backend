@@ -1,0 +1,9 @@
+{
+  "name": "whole-market-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Whole Market dashboard",
+  "main": "api/quote.js",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
